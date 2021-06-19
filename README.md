@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm João Carvalho</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaocarvalhotlr" alt="joaocarvalhotlr" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Languages**
+- 🌱 I’m currently learning **Front-End Languages and Tools**
 
 - 📫 How to reach me **joaomarceloc03@gmail.com**
 
