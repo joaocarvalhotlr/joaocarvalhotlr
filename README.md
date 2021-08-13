@@ -16,5 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocarvalhotlr&show_icons=true&locale=en&layout=compact" alt="joaocarvalhotlr" /></p>
 
-![Snake animation](https://github.com/joaocarvalhotlr/joaocarvalhotlr/blob/output/github-contribution-grid-snake.svg)
-
