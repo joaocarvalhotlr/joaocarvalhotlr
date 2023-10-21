@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm João Carvalho</h1>
 
-- 🌱 I’m currently learning **Front-End Languages and Tools**
-
 - 📫 How to reach me **joaomarceloc03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
